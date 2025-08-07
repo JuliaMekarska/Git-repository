@@ -1,5 +1,5 @@
 # Git-repository
 Git team excercise
-<3
+<3 julia branch
 :3 
 :D
